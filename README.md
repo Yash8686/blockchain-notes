@@ -102,20 +102,9 @@ Here comes `Chainlink` which is a decentralized oracle network that enables smar
 
 - Enter your MetaMask wallet address and click 'Send me test
 
-### First transaction
-
-#### Sending Ether to spolia test network
-![alt text](image.png)
-
-![alt text](image-1.png)
-
-#### We got it
-![alt text](image-2.png)
 
 
-#### Frist Transection from Account 1 to Account 2
 
-![alt text](image-3.png)
 
 - In each transaction, some part of etherium is burn forever.
 
